@@ -1,3 +1,5 @@
+![Alt text](https://github.com/rick-dn/functional-adl-reco/blob/main/functional_adl_dataset.png)
+
 This repo is the implementation of our paper "A Step Towards Automated Functional Assessment of Activities of Daily Living". The paper was orally presented at AAAI worksop 2022.
 Paper link: https://doi.org/10.1007/978-3-031-14771-5_13
 
